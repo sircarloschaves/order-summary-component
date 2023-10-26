@@ -14,8 +14,6 @@ Users should be able to:
 
 ![](./images/print-desktop.png)
 
-![](./images/print-mobile.png)
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
