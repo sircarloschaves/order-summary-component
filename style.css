@@ -139,7 +139,6 @@ p {
 .change-btn:hover,
 .change-btn:focus-visible {
   color: var(--primary-light-blue);
-  outline: none;
 }
 
 .payment-btn {
