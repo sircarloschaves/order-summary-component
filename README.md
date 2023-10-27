@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://sircarloschaves.github.io/order-summary-component/]
+- Solution URL: [https://www.frontendmentor.io/solutions/summary-component-with-flexbox-and-custom-properties-ZQlIQ1fMue]
+- Live Site URL: [https://sircarloschaves.github.io/summary-component/]
 
 ## My process
 
