@@ -134,6 +134,7 @@ p {
   margin-left: auto;
   text-decoration: 1.2px solid underline;
   cursor: pointer;
+  transition: color 200ms;
 }
 
 .change-btn:hover,
@@ -154,6 +155,7 @@ p {
   padding: 1em;
   margin-top: 1.3rem;
   cursor: pointer;
+  transition: background 200ms;
 }
 
 .payment-btn:hover,
@@ -170,6 +172,7 @@ p {
   margin-block-start: 1.3rem;
   margin-block-end: 1.5rem;
   cursor: pointer;
+  transition: color 200ms;
 }
 
 .cancel-btn:hover,
